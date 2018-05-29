@@ -1,4 +1,4 @@
-## Welcome to the Pixel:bulb: Page
+## Welcome to the Pixel :bulb: Page
 
 ### Markdown
 
